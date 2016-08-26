@@ -10,7 +10,7 @@ You can then get the screen location of a latitude/longitude coordinate from the
 
 Things to implement:  
 
-Translating the map
-Zooming the map
-Rotating the map
-Getting a screen point from a given coordinate
+Translating the map\n
+Zooming the map\n
+Rotating the map\n
+Getting a screen point from a given coordinate\n
